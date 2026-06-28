@@ -39,22 +39,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> ⚡ Replace the placeholders below with your real projects!
-
-<div align="center">
-
-| Project | Stack | Description |
-|---|---|---|
-| 🔷 **Project Alpha** | Python · ML | A short one-line description of what this project does |
-| 🔶 **Project Beta** | Java · DSA | A short one-line description of what this project does |
-| 🟢 **Project Gamma** | Web · Firebase | A short one-line description of what this project does |
-
-</div>
-
----
-
 ## 🗺️ Learning Roadmap
 
 ```
