@@ -42,7 +42,7 @@
 ## 🗺️ Learning Roadmap
 
 ```
-✅  Core CS fundamentals     — C, C++, Java, OOP, Data Structures
+✅  Core CS fundamentals     — C, C++, Java, Python, OOP, Data Structures
 ✅  Machine Learning basics  — scikit-learn, TensorFlow, NumPy, Pandas
 🔄  Backend Development      — REST APIs, Databases, Server Architecture  [In Progress]
 ⏳  System Design            — Scalability, Distributed Systems           [Up Next]
